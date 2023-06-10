@@ -1,2 +1,2 @@
 # Email-Automation_Python
-Automate Your Emails With Python
+Send Automated Mails with python.
